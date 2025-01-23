@@ -1,4 +1,5 @@
 # Bike Sharing Dashboard
+This project analyzes bike rental trends using the Bike Sharing dataset, providing key insights through an interactive dashboard.
 
 ## Repository Directory Overview
 - /dashboard: Contains the primary files shown in the dashboard.
@@ -27,3 +28,9 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## Access the Dashboard
+You can access the live dashboard by clicking the link below:  
+
+[Bike Rent Dashboard](https://bikerentdashboard.streamlit.app/)
+
